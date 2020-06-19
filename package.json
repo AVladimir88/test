@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "tet.js",
+  "scripts": {
+    "start": "nodemon tet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVladimir88/test.git"
+  },
+  "author": "VA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVladimir88/test/issues"
+  },
+  "homepage": "https://github.com/AVladimir88/test#readme",
+  "dependencies": {
+    "console-out": "^3.0.0",
+    "express": "^4.17.1"
+  }
+}
